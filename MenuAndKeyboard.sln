@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuAndKeyboard", "MenuAndKeyboard\MenuAndKeyboard.csproj", "{8E6D3B0C-A6FD-41F1-A9B1-FCBD1AA9A4AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E6D3B0C-A6FD-41F1-A9B1-FCBD1AA9A4AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E6D3B0C-A6FD-41F1-A9B1-FCBD1AA9A4AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E6D3B0C-A6FD-41F1-A9B1-FCBD1AA9A4AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E6D3B0C-A6FD-41F1-A9B1-FCBD1AA9A4AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5A0086B-212B-49B4-9F28-FD54EFD66E1F}
+	EndGlobalSection
+EndGlobal
